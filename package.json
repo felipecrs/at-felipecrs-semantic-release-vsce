@@ -7,9 +7,9 @@
   "author": "Morten Henriksen <mh@gi2.dk>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Implement tests\"; exit 0",
+    "test": "echo 'Implement tests'",
     "lint": "eslint .",
-    "semantic-release": "semantic-release"
+    "release": "semantic-release"
   },
   "engines": {
     "node": ">=10.18"
