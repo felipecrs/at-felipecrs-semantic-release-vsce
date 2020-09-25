@@ -1,10 +1,13 @@
 {
-  "name": "semantic-release-vsce",
+  "name": "@felipecrs/semantic-release-vsce",
   "description": "Semantic release plugin for vs code extensions",
   "version": "0.0.0-development",
   "main": "index.js",
   "repository": "https://github.com/raix/semantic-release-vsce.git",
   "author": "Morten Henriksen <mh@gi2.dk>",
+  "contributors": [
+    "Felipe Santos <felipecassiors@gmail.com> (https://felipesantos.dev)"
+  ],
   "license": "MIT",
   "scripts": {
     "test": "echo 'Implement tests'",
