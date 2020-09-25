@@ -9,6 +9,9 @@
     "Felipe Santos <felipecassiors@gmail.com> (https://felipesantos.dev)"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo 'Implement tests'",
     "lint": "eslint .",
