@@ -3,7 +3,7 @@
   "description": "Semantic release plugin for vs code extensions",
   "version": "0.0.0-development",
   "main": "index.js",
-  "repository": "https://github.com/felipecrs/semantic-release-vsce.git",
+  "repository": "https://github.com/felipecrs/semantic-release-vsce-old.git",
   "author": "Morten Henriksen <mh@gi2.dk>",
   "contributors": [
     "Felipe Santos <felipecassiors@gmail.com> (https://felipesantos.dev)"

@@ -1,3 +1,5 @@
+> **Deprecation notice:** this package is deprecated in favor of [**semantic-release-vsce**](https://github.com/felipecrs/semantic-release-vsce), please use that instead.
+
 # semantic-release-vsce
 
 [![npm](https://img.shields.io/npm/v/@felipecrs/semantic-release-vsce.svg)](https://www.npmjs.com/package/@felipecrs/semantic-release-vsce)
